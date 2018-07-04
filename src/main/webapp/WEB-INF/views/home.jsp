@@ -8,5 +8,25 @@
 </head>
 <body>
 	<h1>Casa do Codigo</h1>
+	<table>
+		
+		<tbody>
+		<tr>
+			<td>Java 8 Pratico</td>
+			<td>Certificação OCJP</td>
+		</tr>
+		
+		<tr>
+			<td>PHP 7 pra otarios</td>
+			<td>TDD na pratica pra PHPentos</td>
+		</tr>
+		
+		<tr>
+			<td>Android GOGOLE</td>
+			<td>TDD na pratica pra Javeiros</td>
+		</tr>
+			
+		</tbody>
+	</table>
 </body>
 </html>
